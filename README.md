@@ -4,8 +4,8 @@
 
 - 把執行 T-SQL 語句後的結果自動 map 成 type / dynamic
 - 優點：輕量化，功能簡單，自由度較高（T-SQL)，支援 stored procedure
-- 缺點：仍需要自行寫 SQL 及參數化查詢
 - 時機：DB 結構複雜 / 存在不少數量 stored procedure 時
+- 缺點：仍需要自行寫 SQL 及參數化查詢
 
 ## PetaPoco
 
